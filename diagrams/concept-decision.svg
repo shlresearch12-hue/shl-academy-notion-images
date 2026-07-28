@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="400" viewBox="0 0 860 400" role="img" aria-label="다이어그램">
+<rect width='860' height='400' fill='#FFFFFF'/>
+<text x="430" y="28" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="13" font-weight="500" fill="#7B858E" text-anchor="middle">규칙이 하나 생기면 이 순서로 묻습니다</text>
+<path d="M300,57.0 L465.0,88 L300,119.0 L135.0,88 Z" fill="#EEF7FC" stroke="#087FB9" stroke-width="1.6"/>
+<text x="300" y="93" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="14" font-weight="700" fill="#17212B" text-anchor="middle">기계적으로 검사되나?</text>
+<line x1="465" y1="88" x2="589" y2="88" stroke="#7B858E" stroke-width="1.6"/>
+<path d="M589,83.5 L589,92.5 L596,88 Z" fill="#7B858E"/>
+<text x="530" y="78" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="middle">예</text>
+<rect x="596" y="57" width="236" height="62" rx="12" ry="12" fill="#FFFFFF" stroke="#DCE3E7" stroke-width="1.5"/>
+<rect x="596" y="57" width="4" height="62" rx="2" fill="#BE3B3B"/>
+<text x="714.0" y="83" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="middle">훅</text>
+<text x="714.0" y="103" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="middle">기계가 강제한다 · 판단 0%</text>
+<line x1="300" y1="119" x2="300" y2="161" stroke="#7B858E" stroke-width="1.6"/>
+<path d="M295.5,161 L304.5,161 L300,168 Z" fill="#7B858E"/>
+<text x="315" y="148" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="start">아니오</text>
+<path d="M300,168.0 L465.0,199 L300,230.0 L135.0,199 Z" fill="#EEF7FC" stroke="#087FB9" stroke-width="1.6"/>
+<text x="300" y="204" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="14" font-weight="700" fill="#17212B" text-anchor="middle">지식인가, 역할인가?</text>
+<line x1="465" y1="199" x2="589" y2="199" stroke="#7B858E" stroke-width="1.6"/>
+<path d="M589,194.5 L589,203.5 L596,199 Z" fill="#7B858E"/>
+<text x="524" y="189" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="middle">지식</text>
+<rect x="596" y="168" width="236" height="62" rx="12" ry="12" fill="#FFFFFF" stroke="#DCE3E7" stroke-width="1.5"/>
+<rect x="596" y="168" width="4" height="62" rx="2" fill="#087FB9"/>
+<text x="714.0" y="194" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="middle">스킬</text>
+<text x="714.0" y="214" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="middle">방법·양식을 알려준다</text>
+<line x1="300" y1="230" x2="300" y2="293" stroke="#7B858E" stroke-width="1.6"/>
+<path d="M295.5,293 L304.5,293 L300,300 Z" fill="#7B858E"/>
+<text x="315" y="272" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="start">역할</text>
+<rect x="182" y="300" width="236" height="62" rx="12" ry="12" fill="#FFFFFF" stroke="#DCE3E7" stroke-width="1.5"/>
+<rect x="182" y="300" width="4" height="62" rx="2" fill="#8B5CF6"/>
+<text x="300.0" y="326" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="middle">서브에이전트</text>
+<text x="300.0" y="346" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="middle">권한 분리 · 독립 검수 · 병렬</text>
+<text x="596" y="318" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#7B858E" text-anchor="start">막는 실수가 서로 다릅니다 —</text>
+<text x="596" y="338" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#7B858E" text-anchor="start">몰라서(스킬) · 섞여서(서브에이전트)</text>
+<text x="596" y="358" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#7B858E" text-anchor="start">· 깜빡해서(훅)</text>
+</svg>

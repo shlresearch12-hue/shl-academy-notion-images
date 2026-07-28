@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-label="다이어그램">
+<rect width='900' height='470' fill='#FFFFFF'/>
+<text x="450" y="30" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="13" font-weight="500" fill="#7B858E" text-anchor="middle">오늘 배우는 것들이 하나의 공정으로 이어집니다</text>
+<rect x="70" y="62" width="196" height="66" rx="12" ry="12" fill="#FFFFFF" stroke="#DCE3E7" stroke-width="1.5"/>
+<rect x="70" y="62" width="4" height="66" rx="2" fill="#087FB9"/>
+<text x="168.0" y="88" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="middle">크론</text>
+<text x="168.0" y="109" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="middle">정해진 시각에 방아쇠</text>
+<text x="254" y="79" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="11" font-weight="500" fill="#7B858E" text-anchor="end">5-7</text>
+<rect x="70" y="168" width="196" height="66" rx="12" ry="12" fill="#FFFFFF" stroke="#DCE3E7" stroke-width="1.5"/>
+<rect x="70" y="168" width="4" height="66" rx="2" fill="#087FB9"/>
+<text x="168.0" y="194" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="middle">MCP · 커넥터</text>
+<text x="168.0" y="215" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="middle">외부 시스템 연결</text>
+<text x="254" y="185" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="11" font-weight="500" fill="#7B858E" text-anchor="end">5-1</text>
+<rect x="352" y="115" width="196" height="66" rx="12" ry="12" fill="#FFFFFF" stroke="#DCE3E7" stroke-width="1.5"/>
+<rect x="352" y="115" width="4" height="66" rx="2" fill="#087FB9"/>
+<text x="450.0" y="141" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="middle">하네스</text>
+<text x="450.0" y="162" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="middle">Claude Code 작업장</text>
+<text x="536" y="132" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="11" font-weight="500" fill="#7B858E" text-anchor="end"></text>
+<rect x="634" y="115" width="196" height="66" rx="12" ry="12" fill="#FFFFFF" stroke="#DCE3E7" stroke-width="1.5"/>
+<rect x="634" y="115" width="4" height="66" rx="2" fill="#087FB9"/>
+<text x="732.0" y="141" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="middle">워크플로우</text>
+<text x="732.0" y="162" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="middle">공정 설계도</text>
+<text x="818" y="132" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="11" font-weight="500" fill="#7B858E" text-anchor="end">5-9</text>
+<rect x="634" y="274" width="196" height="66" rx="12" ry="12" fill="#FFFFFF" stroke="#DCE3E7" stroke-width="1.5"/>
+<rect x="634" y="274" width="4" height="66" rx="2" fill="#087FB9"/>
+<text x="732.0" y="300" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="middle">서브에이전트</text>
+<text x="732.0" y="321" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="middle">역할별 작업자</text>
+<text x="818" y="291" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="11" font-weight="500" fill="#7B858E" text-anchor="end">5-3 · 5-4</text>
+<rect x="352" y="274" width="196" height="66" rx="12" ry="12" fill="#FFFFFF" stroke="#DCE3E7" stroke-width="1.5"/>
+<rect x="352" y="274" width="4" height="66" rx="2" fill="#087FB9"/>
+<text x="450.0" y="300" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="middle">훅</text>
+<text x="450.0" y="321" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="12.5" font-weight="500" fill="#53585F" text-anchor="middle">저장 순간 자동 검사</text>
+<text x="536" y="291" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="11" font-weight="500" fill="#7B858E" text-anchor="end">5-5 · 5-6</text>
+<line x1="266" y1="95.0" x2="345" y2="95.0" stroke="#7B858E" stroke-width="1.6"/>
+<path d="M345,90.5 L345,99.5 L352,95.0 Z" fill="#7B858E"/>
+<line x1="266" y1="201.0" x2="345" y2="201.0" stroke="#7B858E" stroke-width="1.6"/>
+<path d="M345,196.5 L345,205.5 L352,201.0 Z" fill="#7B858E"/>
+<line x1="548" y1="148.0" x2="627" y2="148.0" stroke="#7B858E" stroke-width="1.6"/>
+<path d="M627,143.5 L627,152.5 L634,148.0 Z" fill="#7B858E"/>
+<line x1="732.0" y1="181" x2="732.0" y2="267" stroke="#7B858E" stroke-width="1.6"/>
+<path d="M727.5,267 L736.5,267 L732.0,274 Z" fill="#7B858E"/>
+<line x1="634" y1="307.0" x2="548" y2="307.0" stroke="#7B858E" stroke-width="1.6"/>
+<path d="M555,302.5 L555,311.5 L548,307.0 Z" fill="#7B858E"/>
+<rect x="240" y="372" width="420" height="66" rx="33" ry="33" fill="#F2FAEC" stroke="#75BD3B" stroke-width="2"/>
+<text x="450" y="399" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#17212B" text-anchor="middle">사람 손 없이 돌아가는 내 업무 1건</text>
+<text x="450" y="421" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="13" font-weight="500" fill="#53585F" text-anchor="middle">= 오늘의 산출물</text>
+<line x1="450.0" y1="340" x2="450.0" y2="365" stroke="#7B858E" stroke-width="1.6"/>
+<path d="M445.5,365 L454.5,365 L450.0,372 Z" fill="#7B858E"/>
+</svg>
