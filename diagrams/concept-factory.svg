@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="707" height="456" viewBox="0 0 707 456" role="img" aria-label="다이어그램">
 <rect width='707' height='456' fill='#fbfaf9'/>
-<text x="26" y="38" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13" font-weight="500" fill="#7d7979" text-anchor="start">SHL은 제조 회사입니다 — 7가지를 공장에 빗대면 한 번에 정리됩니다</text>
+<text x="26" y="38" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13" font-weight="500" fill="#7d7979" text-anchor="start">제조 현장에 빗대면 7가지가 한 번에 정리됩니다</text>
 <rect x="26" y="60" width="655" height="364" rx="10" fill="#fbfaf9" stroke="#d3cfca" stroke-width="1.5"/>
 <rect x="26" y="72" width="3" height="28" rx="1.5" fill="#b68235"/>
 <text x="42" y="91.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="15" font-weight="700" fill="#201f1d" text-anchor="start">하네스 (Claude Code)</text>
