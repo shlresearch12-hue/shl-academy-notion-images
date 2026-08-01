@@ -1,44 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="707" height="456" viewBox="0 0 707 456" role="img" aria-label="다이어그램">
-<rect width='707' height='456' fill='#FFFFFF'/>
-<text x="26" y="38" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="13" font-weight="500" fill="#7B858E" text-anchor="start">SHL은 제조 회사입니다 — 7가지를 공장에 빗대면 한 번에 정리됩니다</text>
-<rect x="26" y="60" width="655" height="364" rx="10" fill="#FFFFFF" stroke="#DCE3E7" stroke-width="1.5"/>
-<rect x="26" y="72" width="3" height="28" rx="1.5" fill="#087FB9"/>
-<text x="42" y="91.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="start">하네스 (Claude Code)</text>
-<text x="222" y="91.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="14" font-weight="500" fill="#06699A" text-anchor="start">공장 건물 + 설비</text>
-<text x="406" y="91.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="13.5" font-weight="500" fill="#53585F" text-anchor="start">AI가 파일을 읽고 명령을 실행하는 작업장</text>
-<rect x="27" y="112" width="653" height="52" fill="#F3F6F7"/>
-<line x1="26" y1="112" x2="681" y2="112" stroke="#DCE3E7" stroke-width="1"/>
-<rect x="26" y="124" width="3" height="28" rx="1.5" fill="#087FB9"/>
-<text x="42" y="143.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="start">CLAUDE.md</text>
-<text x="222" y="143.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="14" font-weight="500" fill="#06699A" text-anchor="start">벽에 붙은 작업표준서</text>
-<text x="406" y="143.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="13.5" font-weight="500" fill="#53585F" text-anchor="start">이 작업장에서는 이렇게 일한다</text>
-<line x1="26" y1="164" x2="681" y2="164" stroke="#DCE3E7" stroke-width="1"/>
-<rect x="26" y="176" width="3" height="28" rx="1.5" fill="#087FB9"/>
-<text x="42" y="195.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="start">스킬 (SKILL.md)</text>
-<text x="222" y="195.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="14" font-weight="500" fill="#06699A" text-anchor="start">제품별 작업 매뉴얼</text>
-<text x="406" y="195.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="13.5" font-weight="500" fill="#53585F" text-anchor="start">이 작업이 들어오면 이 매뉴얼대로</text>
-<rect x="27" y="216" width="653" height="52" fill="#F3F6F7"/>
-<line x1="26" y1="216" x2="681" y2="216" stroke="#DCE3E7" stroke-width="1"/>
-<rect x="26" y="228" width="3" height="28" rx="1.5" fill="#087FB9"/>
-<text x="42" y="247.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="start">서브에이전트</text>
-<text x="222" y="247.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="14" font-weight="500" fill="#06699A" text-anchor="start">특정 역할의 작업자</text>
-<text x="406" y="247.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="13.5" font-weight="500" fill="#53585F" text-anchor="start">이 일은 이 직원에게 맡긴다</text>
-<line x1="26" y1="268" x2="681" y2="268" stroke="#DCE3E7" stroke-width="1"/>
-<rect x="26" y="280" width="3" height="28" rx="1.5" fill="#087FB9"/>
-<text x="42" y="299.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="start">훅 (Hook)</text>
-<text x="222" y="299.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="14" font-weight="500" fill="#06699A" text-anchor="start">설비 인터록 · 검사 센서</text>
-<text x="406" y="299.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="13.5" font-weight="500" fill="#53585F" text-anchor="start">이 순간엔 사람 판단 없이 무조건 검사</text>
-<rect x="27" y="320" width="653" height="52" fill="#F3F6F7"/>
-<line x1="26" y1="320" x2="681" y2="320" stroke="#DCE3E7" stroke-width="1"/>
-<rect x="26" y="332" width="3" height="28" rx="1.5" fill="#087FB9"/>
-<text x="42" y="351.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="start">워크플로우</text>
-<text x="222" y="351.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="14" font-weight="500" fill="#06699A" text-anchor="start">공정 설계도</text>
-<text x="406" y="351.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="13.5" font-weight="500" fill="#53585F" text-anchor="start">작업자 여럿을 어떤 순서로, 어디는 동시에</text>
-<line x1="26" y1="372" x2="681" y2="372" stroke="#DCE3E7" stroke-width="1"/>
-<rect x="26" y="384" width="3" height="28" rx="1.5" fill="#087FB9"/>
-<text x="42" y="403.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#17212B" text-anchor="start">크론</text>
-<text x="222" y="403.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="14" font-weight="500" fill="#06699A" text-anchor="start">교대근무표 · 자동 타이머</text>
-<text x="406" y="403.0" font-family="Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', sans-serif" font-size="13.5" font-weight="500" fill="#53585F" text-anchor="start">정해진 시각에 자동으로 가동</text>
-<line x1="208" y1="60" x2="208" y2="424" stroke="#DCE3E7" stroke-width="1"/>
-<line x1="392" y1="60" x2="392" y2="424" stroke="#DCE3E7" stroke-width="1"/>
+<rect width='707' height='456' fill='#fbfaf9'/>
+<text x="26" y="38" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13" font-weight="500" fill="#7d7979" text-anchor="start">SHL은 제조 회사입니다 — 7가지를 공장에 빗대면 한 번에 정리됩니다</text>
+<rect x="26" y="60" width="655" height="364" rx="10" fill="#fbfaf9" stroke="#d3cfca" stroke-width="1.5"/>
+<rect x="26" y="72" width="3" height="28" rx="1.5" fill="#b68235"/>
+<text x="42" y="91.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="15" font-weight="700" fill="#201f1d" text-anchor="start">하네스 (Claude Code)</text>
+<text x="222" y="91.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="500" fill="#7d5411" text-anchor="start">공장 건물 + 설비</text>
+<text x="406" y="91.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13.5" font-weight="500" fill="#514e4b" text-anchor="start">AI가 파일을 읽고 명령을 실행하는 작업장</text>
+<rect x="27" y="112" width="653" height="52" fill="#f0eeeb"/>
+<line x1="26" y1="112" x2="681" y2="112" stroke="#d3cfca" stroke-width="1"/>
+<rect x="26" y="124" width="3" height="28" rx="1.5" fill="#b68235"/>
+<text x="42" y="143.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="15" font-weight="700" fill="#201f1d" text-anchor="start">CLAUDE.md</text>
+<text x="222" y="143.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="500" fill="#7d5411" text-anchor="start">벽에 붙은 작업표준서</text>
+<text x="406" y="143.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13.5" font-weight="500" fill="#514e4b" text-anchor="start">이 작업장에서는 이렇게 일한다</text>
+<line x1="26" y1="164" x2="681" y2="164" stroke="#d3cfca" stroke-width="1"/>
+<rect x="26" y="176" width="3" height="28" rx="1.5" fill="#b68235"/>
+<text x="42" y="195.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="15" font-weight="700" fill="#201f1d" text-anchor="start">스킬 (SKILL.md)</text>
+<text x="222" y="195.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="500" fill="#7d5411" text-anchor="start">제품별 작업 매뉴얼</text>
+<text x="406" y="195.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13.5" font-weight="500" fill="#514e4b" text-anchor="start">이 작업이 들어오면 이 매뉴얼대로</text>
+<rect x="27" y="216" width="653" height="52" fill="#f0eeeb"/>
+<line x1="26" y1="216" x2="681" y2="216" stroke="#d3cfca" stroke-width="1"/>
+<rect x="26" y="228" width="3" height="28" rx="1.5" fill="#b68235"/>
+<text x="42" y="247.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="15" font-weight="700" fill="#201f1d" text-anchor="start">서브에이전트</text>
+<text x="222" y="247.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="500" fill="#7d5411" text-anchor="start">특정 역할의 작업자</text>
+<text x="406" y="247.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13.5" font-weight="500" fill="#514e4b" text-anchor="start">이 일은 이 직원에게 맡긴다</text>
+<line x1="26" y1="268" x2="681" y2="268" stroke="#d3cfca" stroke-width="1"/>
+<rect x="26" y="280" width="3" height="28" rx="1.5" fill="#b68235"/>
+<text x="42" y="299.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="15" font-weight="700" fill="#201f1d" text-anchor="start">훅 (Hook)</text>
+<text x="222" y="299.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="500" fill="#7d5411" text-anchor="start">설비 인터록 · 검사 센서</text>
+<text x="406" y="299.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13.5" font-weight="500" fill="#514e4b" text-anchor="start">이 순간엔 사람 판단 없이 무조건 검사</text>
+<rect x="27" y="320" width="653" height="52" fill="#f0eeeb"/>
+<line x1="26" y1="320" x2="681" y2="320" stroke="#d3cfca" stroke-width="1"/>
+<rect x="26" y="332" width="3" height="28" rx="1.5" fill="#b68235"/>
+<text x="42" y="351.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="15" font-weight="700" fill="#201f1d" text-anchor="start">워크플로우</text>
+<text x="222" y="351.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="500" fill="#7d5411" text-anchor="start">공정 설계도</text>
+<text x="406" y="351.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13.5" font-weight="500" fill="#514e4b" text-anchor="start">작업자 여럿을 어떤 순서로, 어디는 동시에</text>
+<line x1="26" y1="372" x2="681" y2="372" stroke="#d3cfca" stroke-width="1"/>
+<rect x="26" y="384" width="3" height="28" rx="1.5" fill="#b68235"/>
+<text x="42" y="403.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="15" font-weight="700" fill="#201f1d" text-anchor="start">크론</text>
+<text x="222" y="403.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="500" fill="#7d5411" text-anchor="start">교대근무표 · 자동 타이머</text>
+<text x="406" y="403.0" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13.5" font-weight="500" fill="#514e4b" text-anchor="start">정해진 시각에 자동으로 가동</text>
+<line x1="208" y1="60" x2="208" y2="424" stroke="#d3cfca" stroke-width="1"/>
+<line x1="392" y1="60" x2="392" y2="424" stroke="#d3cfca" stroke-width="1"/>
 </svg>
