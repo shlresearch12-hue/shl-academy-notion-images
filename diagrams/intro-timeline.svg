@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="다이어그램">
+<rect width='900' height='300' fill='#fbfaf9'/>
+<text x="450" y="36" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="19" font-weight="700" fill="#201f1d" text-anchor="middle">Anthropic 과 Claude — 지금까지</text>
+<text x="450" y="59" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="12.5" font-weight="500" fill="#7d7979" text-anchor="middle">최종 확인 2026-08-02 · 이 표는 인쇄한 날부터 낡기 시작합니다</text>
+<line x1="80.0" y1="150" x2="228.0" y2="150" stroke="#b68235" stroke-width="2.5"/>
+<line x1="228.0" y1="150" x2="376.0" y2="150" stroke="#b68235" stroke-width="2.5"/>
+<line x1="376.0" y1="150" x2="524.0" y2="150" stroke="#b68235" stroke-width="2.5"/>
+<line x1="524.0" y1="150" x2="672.0" y2="150" stroke="#b68235" stroke-width="2.5"/>
+<line x1="672.0" y1="150" x2="820.0" y2="150" stroke="#c9a15e" stroke-width="2" stroke-dasharray="6 5"/>
+<circle cx="80.0" cy="150" r="6" fill="#fbfaf9" stroke="#7d5411" stroke-width="2"/>
+<text x="80.0" y="120" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="700" fill="#201f1d" text-anchor="middle">창업</text>
+<text x="80.0" y="138" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="500" fill="#514e4b" text-anchor="middle">OpenAI 출신 7명</text>
+<text x="80.0" y="176" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="700" fill="#7d5411" text-anchor="middle">2021-02</text>
+<circle cx="228.0" cy="150" r="6" fill="#fbfaf9" stroke="#7d5411" stroke-width="2"/>
+<text x="228.0" y="194" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="700" fill="#201f1d" text-anchor="middle">Claude 2</text>
+<text x="228.0" y="212" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="500" fill="#514e4b" text-anchor="middle">일반 공개</text>
+<text x="228.0" y="134" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="700" fill="#7d5411" text-anchor="middle">2023-07</text>
+<circle cx="376.0" cy="150" r="6" fill="#fbfaf9" stroke="#7d5411" stroke-width="2"/>
+<text x="376.0" y="120" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="700" fill="#201f1d" text-anchor="middle">Claude 3</text>
+<text x="376.0" y="138" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="500" fill="#514e4b" text-anchor="middle">Haiku·Sonnet·Opus</text>
+<text x="376.0" y="176" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="700" fill="#7d5411" text-anchor="middle">2024-03</text>
+<circle cx="524.0" cy="150" r="6" fill="#fbfaf9" stroke="#7d5411" stroke-width="2"/>
+<text x="524.0" y="194" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="700" fill="#201f1d" text-anchor="middle">Claude 4</text>
+<text x="524.0" y="212" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="500" fill="#514e4b" text-anchor="middle">Claude Code 정식</text>
+<text x="524.0" y="134" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="700" fill="#7d5411" text-anchor="middle">2025-05</text>
+<circle cx="672.0" cy="150" r="6" fill="#fbfaf9" stroke="#7d5411" stroke-width="2"/>
+<text x="672.0" y="120" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="700" fill="#201f1d" text-anchor="middle">Fable 5</text>
+<text x="672.0" y="138" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="500" fill="#514e4b" text-anchor="middle">사흘 뒤 접근 중단</text>
+<text x="672.0" y="176" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="700" fill="#7d5411" text-anchor="middle">2026-06</text>
+<circle cx="820.0" cy="150" r="8" fill="#b68235" stroke="#7d5411" stroke-width="2"/>
+<text x="820.0" y="194" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="14" font-weight="700" fill="#201f1d" text-anchor="middle">Opus 5</text>
+<text x="820.0" y="212" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="500" fill="#514e4b" text-anchor="middle">1M 토큰</text>
+<text x="820.0" y="134" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="11.5" font-weight="700" fill="#7d5411" text-anchor="middle">2026-07</text>
+<text x="746.0" y="88" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="12.5" font-weight="700" fill="#a5433a" text-anchor="middle">19일 공백</text>
+<text x="450" y="282" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13" font-weight="500" fill="#514e4b" text-anchor="middle">2개월 사이에 모델이 네 번 나왔습니다 — 그래서 이름을 외우지 않습니다</text>
+</svg>
