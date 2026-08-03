@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="다이어그램">
+<rect width='900' height='300' fill='#fbfaf9'/>
+<text x="450" y="38" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="19" font-weight="700" fill="#201f1d" text-anchor="middle">이름 대신 «세 자리»로 기억합니다</text>
+<text x="450" y="61" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13" font-weight="500" fill="#7d7979" text-anchor="middle">이름은 두 달에 네 번 바뀌지만, 이 세 칸은 그대로입니다</text>
+<rect x="30" y="92" width="262" height="150" rx="9" ry="9" fill="#fbfaf9" stroke="#b68235" stroke-width="1.8"/>
+<rect x="30" y="92" width="262" height="34" rx="9" ry="9" fill="#b68235"/>
+<rect x="30" y="112" width="262" height="14" fill="#b68235"/>
+<text x="161.0" y="115" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Opus  ·  정밀 검사</text>
+<text x="161.0" y="152" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13" font-weight="700" fill="#7d5411" text-anchor="middle">외부 기관 정밀 시험</text>
+<text x="161.0" y="180" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="12" font-weight="500" fill="#514e4b" text-anchor="middle">오래 걸리고 비싸지만</text>
+<text x="161.0" y="200" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="12" font-weight="500" fill="#514e4b" text-anchor="middle">판정 근거로 쓸 수 있다</text>
+<rect x="319" y="92" width="262" height="150" rx="9" ry="9" fill="#fbfaf9" stroke="#7d5411" stroke-width="1.8"/>
+<rect x="319" y="92" width="262" height="34" rx="9" ry="9" fill="#7d5411"/>
+<rect x="319" y="112" width="262" height="14" fill="#7d5411"/>
+<text x="450.0" y="115" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Sonnet  ·  일상 업무</text>
+<text x="450.0" y="152" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13" font-weight="700" fill="#7d5411" text-anchor="middle">사내 시험실 상시 시험</text>
+<text x="450.0" y="180" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="12" font-weight="500" fill="#514e4b" text-anchor="middle">실무 판단의 대부분이</text>
+<text x="450.0" y="200" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="12" font-weight="500" fill="#514e4b" text-anchor="middle">여기서 끝난다 — 기본값</text>
+<rect x="608" y="92" width="262" height="150" rx="9" ry="9" fill="#fbfaf9" stroke="#8a6a3a" stroke-width="1.8"/>
+<rect x="608" y="92" width="262" height="34" rx="9" ry="9" fill="#8a6a3a"/>
+<rect x="608" y="112" width="262" height="14" fill="#8a6a3a"/>
+<text x="739.0" y="115" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Haiku  ·  빠른 확인</text>
+<text x="739.0" y="152" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13" font-weight="700" fill="#7d5411" text-anchor="middle">현장 간이 확인</text>
+<text x="739.0" y="180" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="12" font-weight="500" fill="#514e4b" text-anchor="middle">빠르고 가볍다</text>
+<text x="739.0" y="200" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="12" font-weight="500" fill="#514e4b" text-anchor="middle">어려운 판단은 맡기지 않는다</text>
+<text x="450" y="272" font-family="Spectral, Pretendard, SUIT, 'Apple SD Gothic Neo', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Noto Sans KR', serif" font-size="13" font-weight="500" fill="#514e4b" text-anchor="middle">이름 뒤 숫자(4.5 · 5)는 세대 표시 — 자리는 그대로입니다</text>
+</svg>
